@@ -10,7 +10,7 @@
 - [Tutorials](#tutorials)
 - [Boilerplates](#boilerplates-and-example-apps)
 - [Advanced Use Cases](#advanced-use-cases)
-- [GraphQL BaaS Providers](#graphql-baas-providers)
+- [Server Side Tools](#server-side-tools)
 - [Articles and Videos](#articles-and-videos)
 - [Stories](#stories)
 
