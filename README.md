@@ -89,7 +89,7 @@
 - [Graphcool](https://graph.cool): Self-Hosted GraphQL BaaS
 - [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
 - [Postgraphile](https://www.graphile.org): Rapidly build highly customisable GraphQL APIs
-- [Prisma](https://www.prisma.io/): Turn your database into a GraphQL API.
+- [Prisma](https://www.prisma.io/): Simplifies database access in your resolvers (replacing traditional ORMs).
 
 ## Articles and Videos
 
