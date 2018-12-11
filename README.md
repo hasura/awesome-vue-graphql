@@ -49,6 +49,8 @@
   - [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools#apollo-client-devtools): Chrome and Firefox extension for Apollo Client developer tools
 - GraphQL Workflows:
   - [GraphQL Playground](https://github.com/graphcool/graphql-playground): Powerful GraphQL IDE built on top of GraphiQL
+  - [Altair GraphQL Client](https://altair.sirmuel.design/): A beautiful feature-rich GraphQL Client for all platforms
+  - [GraphiQL Online](https://graphiql-online.com): An online version of GraphiQL with a configurable endpoint and headers.
 
 ## Tutorials
 
@@ -79,13 +81,15 @@
   - [Subscriptions with Vue Apollo Client](https://akryum.github.io/vue-apollo/guide/apollo/subscriptions.html#setup): Learn how to achieve realtime data with GraphQL subscriptions using Vue Apollo Client.
   - [Managing Local Data](https://github.com/apollographql/apollo-link-state): if You need to manage your app lcoal state you can do so with apollo link state.
 
-## GraphQL BaaS Providers
+## Server Side Tools
 
 > Get a GraphQL backend for your applications using these service providers
 
-- [Graphcool](https://www.graph.cool): Self-Hosted GraphQL BaaS
-- [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
 - [AWS AppSync](https://aws.amazon.com/appsync/): Build data-driven apps with real-time and offline capabilities
+- [Graphcool](https://graph.cool): Self-Hosted GraphQL BaaS
+- [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
+- [Postgraphile](https://www.graphile.org): Rapidly build highly customisable GraphQL APIs
+- [Prisma](https://www.prisma.io/): Turn your database into a GraphQL API.
 
 ## Articles and Videos
 
