@@ -99,6 +99,7 @@
 - [Thinking in Graphs](http://graphql.org/learn/thinking-in-graphs/)
 - [What are the benefits of using GraphQL and why it surpasses REST](https://blog.hellocomet.co/graphql-benefits-api/)
 - [Create Nuxt.js Universal Apps with GraphQL on Postgres](https://blog.hasura.io/create-nuxt-js-universal-apps-using-graphql-on-postgres/)
+- [Leveraging Vue.js & GraphQL with Gridsome](https://snipcart.com/blog/vuejs-graphql-airtable-example)
 
 ### Videos
 
