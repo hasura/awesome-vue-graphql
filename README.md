@@ -10,7 +10,7 @@
 - [Tutorials](#tutorials)
 - [Boilerplates](#boilerplates-and-example-apps)
 - [Advanced Use Cases](#advanced-use-cases)
-- [GraphQL BaaS Providers](#graphql-baas-providers)
+- [Server Side Tools](#server-side-tools)
 - [Articles and Videos](#articles-and-videos)
 - [Stories](#stories)
 
@@ -95,7 +95,7 @@
 - [Graphcool](https://graph.cool): Self-Hosted GraphQL BaaS
 - [Hasura](https://hasura.io): Instant GraphQL APIs on Postgres
 - [Postgraphile](https://www.graphile.org): Rapidly build highly customisable GraphQL APIs
-- [Prisma](https://www.prisma.io/): Turn your database into a GraphQL API.
+- [Prisma](https://www.prisma.io/): Simplifies database access in your resolvers (replacing traditional ORMs).
 
 ## Articles and Videos
 
@@ -104,6 +104,8 @@
 - [So what’s this GraphQL thing I keep hearing about?](https://medium.freecodecamp.org/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
 - [Thinking in Graphs](http://graphql.org/learn/thinking-in-graphs/)
 - [What are the benefits of using GraphQL and why it surpasses REST](https://blog.hellocomet.co/graphql-benefits-api/)
+- [Create Nuxt.js Universal Apps with GraphQL on Postgres](https://blog.hasura.io/create-nuxt-js-universal-apps-using-graphql-on-postgres/)
+- [Leveraging Vue.js & GraphQL with Gridsome](https://snipcart.com/blog/vuejs-graphql-airtable-example)
 
 ### Videos
 
