@@ -56,6 +56,7 @@
 
 > Awesome tutorials for using GraphQL with Vue
 - VueJS
+  - [Vue + Apollo Tutorial](https://learn.hasura.io/graphql/vue)
   - [Getting Started with VueJS](https://medium.freecodecamp.org/a-quick-introduction-to-vue-js-72937ee8880d)
   - [Making a ToDo application with VueJS](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2)
   - [Getting started with VueJS, apollo and Graphql](https://www.howtographql.com/vue-apollo/0-introduction/)
@@ -69,6 +70,9 @@
 > Boilerplates and examples for a headstart in development
 
 - VueJS Apollo
+  - [Vue + GraphQL + Auth0](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/vuejs-auth0-graphql)
+  - [Vue + Vuetify + Vuex](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/vuetify-vuex-todo-graphql)
+  - [Nuxt.js + GraphQL](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nuxtjs-postgres-graphql)
   - [Vue + Graphql + Apollo Tutorial](https://github.com/graphql-boilerplates/vue-fullstack-graphql)
   - [VueJs Starter app with AWS amplify](https://github.com/aws-samples/aws-amplify-vue)
 
@@ -80,6 +84,8 @@
   - [Polling](https://dev-blog.apollodata.com/dynamic-graphql-polling-with-react-and-apollo-client-fb36e390d250): Dynamic GraphQL polling with React and Apollo Client
   - [Subscriptions with Vue Apollo Client](https://akryum.github.io/vue-apollo/guide/apollo/subscriptions.html#setup): Learn how to achieve realtime data with GraphQL subscriptions using Vue Apollo Client.
   - [Managing Local Data](https://github.com/apollographql/apollo-link-state): if You need to manage your app lcoal state you can do so with apollo link state.
+- JWT
+  - [Ultimate guide to handling JWTs on frontend clients](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
 
 ## Server Side Tools
 
