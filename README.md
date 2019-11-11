@@ -18,7 +18,7 @@
 
 - [GraphQL](http://graphql.org/learn/)
 - [VueJS](https://vuejs.org/v2/guide/#Getting-Started)
-- [Vue-Apollo](https://akryum.github.io/vue-apollo/)
+- [Vue-Apollo](https://apollo.vuejs.org/)
 
 
 ## Clients
